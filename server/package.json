@@ -1,0 +1,19 @@
+{
+  "name": "map-pong-server",
+  "version": "1.0.0",
+  "description": "A server for the map pong game ",
+  "main": "core.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "William Dann",
+  "license": "ISC"
+}
